@@ -1,1 +1,1 @@
-![videos](Videos.md)
+[videos](Videos.md)
