@@ -3,7 +3,7 @@ I'm a second year Computer Engineering student at UCSD.
 
 ## Week 1
 - Week 1: Peer-graded Assignment: Show What You Know: Explain Your Program\
-  [![Video1](https://i9.ytimg.com/vi_webp/r_KaFcWlwTU/mq2.webp?sqp=CLTW8LAG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYACqAWKAgwIABABGH8gNig6MA8=&rs=AOn4CLDhd7rTcixa3PaWWfgAbnQ36IkIiQ)](https://youtu.be/r_KaFcWlwTU)
+  [![video1](Videos/Week1Thumbnail.jpeg)](https://youtu.be/r_KaFcWlwTU)
   
 ## Week 2
 - Week 2:
