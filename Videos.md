@@ -5,11 +5,11 @@ I'm a second year Computer Engineering student at UCSD.
 
 ## Week 1
 - Peer-graded Assignment: Show What You Know: Explain Your Program(Sequencing: Write a Program)\
-  [![video1](Videos/Week1Thumbnail.jpeg)](https://youtu.be/rKaFcWlwTU)
+  [![video1](Videos/Week1Thumbnail.jpeg)](https://youtu.be/r_KaFcWlwTU)
   
 ## Week 2
 - Peer-graded Assignment: Show What You Know: Write and Explain A Program (Repeats: Write a Program)\
-   [![video1](Videos/Week2_BreakDanceThumbnail.jpeg)](https://youtu.be/9pur8FXCYE)
+   [![video1](Videos/Week2_BreakDanceThumbnail.jpeg)](https://youtu.be/9pur8F_XCYE)
 - Peer-graded Assignment: Teaching Programming Portfolio - Lesson Plan (Scratch Loop "Quest")
    [![video1](Videos/Week2_ScratchQuest.jpeg)](https://youtu.be/Wecll1mUuf0)
   
