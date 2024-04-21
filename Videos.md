@@ -11,10 +11,13 @@ I'm a second year Computer Engineering student at UCSD.
 - Peer-graded Assignment: Show What You Know: Write and Explain A Program (Repeats: Write a Program)\
    [![video1](Videos/Week2_BreakDanceThumbnail.jpeg)](https://youtu.be/9pur8F_XCYE)
 - Peer-graded Assignment: Teaching Programming Portfolio - Lesson Plan (Scratch Loop "Quest")
-   [![video1](Videos/Week2_ScratchQuest.jpeg)](https://youtu.be/Wecll1mUuf0)
+   [![video2](Videos/Week2_ScratchQuest.jpeg)](https://youtu.be/Wecll1mUuf0)
   
 ## Week 3
--
+- Peer-graded Assignment: Show What You Know: Write and Explain A Program (Nested Repeats: Write a Program)\
+  [![video1](Videos/Nested_Repeats_Write_a_Program_Thumbnail.jpeg)](https://www.youtube.com/watch?v=hbWhVI-q1OI)
+- Peer-graded Assignment: Show What You Know: Write and Explain A Program (Events: Write a Program)\
+- [![video2](Videos/Events_Write_a_Program_Thumbnail.jpeg)](https://www.youtube.com/watch?v=UJJJ8MB6-bY)
   
 ## Week 4
 - Week 4:
