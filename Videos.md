@@ -16,7 +16,7 @@ I'm a second year Computer Engineering student at UCSD.
 ## Week 3
 - Peer-graded Assignment: Show What You Know: Write and Explain A Program (Nested Repeats: Write a Program)\
   [![video1](Videos/Nested_Repeats_Write_a_Program_Thumbnail.jpeg)](https://www.youtube.com/watch?v=hbWhVI-q1OI)
-- Peer-graded Assignment: Show What You Know: Write and Explain A Program (Events: Write a Program)\
+- Peer-graded Assignment: Show What You Know: Write and Explain A Program (Events: Write a Program)
 - [![video2](Videos/Events_Write_a_Program_Thumbnail.jpeg)](https://www.youtube.com/watch?v=UJJJ8MB6-bY)
   
 ## Week 4
