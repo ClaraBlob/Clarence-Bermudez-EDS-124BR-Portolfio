@@ -2,7 +2,9 @@
 I'm a second year Computer Engineering student at UCSD.
 ### Email:<tab><tab> csbermudez@ucsd.edu
 
-
+## Weeks
+&ensp;&ensp;&ensp;[Week 1](#Week-1)&ensp;&ensp;&ensp;[Week 2](#Week-2)&ensp;&ensp;&ensp;[Week 3](#Week-3)&ensp;&ensp;&ensp;;[Week 4](#Week-4)&ensp;&ensp;&ensp;[Week 5](#Week-5)&ensp;&ensp;&ensp;
+[Week 6](#Week-6)&ensp;&ensp;&ensp;[Week 7](#Week-7)&ensp;&ensp;&ensp;[Week 8](#Week-8)&ensp;&ensp;&ensp;[Week 9](#Week-9)&ensp;&ensp;&ensp;[Week 10](#Week-10)&ensp;&ensp;&ensp;
 ## Week 1
 - Peer-graded Assignment: Show What You Know: Explain Your Program(Sequencing: Write a Program)\
   [![video1](Videos/Week1Thumbnail.jpeg)](https://youtu.be/r_KaFcWlwTU)
