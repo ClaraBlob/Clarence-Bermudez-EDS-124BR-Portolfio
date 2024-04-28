@@ -22,7 +22,11 @@ I'm a second year Computer Engineering student at UCSD.
 - [![video2](Videos/Events_Write_a_Program_Thumbnail.jpeg)](https://www.youtube.com/watch?v=UJJJ8MB6-bY)
   
 ## Week 4
-- Week 4:
+- Peer-graded Assignment: Show What You Know: Write and Explain A Program (Variables: Write a Program)\
+  [![video1](Videos/Variable_Explanation)](https://www.youtube.com/watch?v=9L7mvf3aSEg)
+- Peer-graded Assignment: Create a Parsons' Problem for Teaching:\
+  [![video1](Videos/Parsons_Problem)](https://www.youtube.com/watch?v=tmwCcCsib18)
+  
   
 ## Week 5
 - Week 5:
