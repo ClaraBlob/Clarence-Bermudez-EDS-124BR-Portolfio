@@ -25,11 +25,12 @@ I'm a second year Computer Engineering student at UCSD.
 - Peer-graded Assignment: Show What You Know: Write and Explain A Program (Variables: Write a Program)\
   [![video1](Videos/Variable_Explanation.jpeg)](https://www.youtube.com/watch?v=9L7mvf3aSEg)
 - Peer-graded Assignment: Create a Parsons' Problem for Teaching:\
-  [![video1](Videos/Parsons_Problem.jpeg)](https://www.youtube.com/watch?v=tmwCcCsib18)
+  [![video2](Videos/Parsons_Problem.jpeg)](https://www.youtube.com/watch?v=tmwCcCsib18)
   
   
 ## Week 5
-- Week 5:
+- Week 5: Peer-graded Assignment: Show What You Know: Write and Explain A Program (Conditional Loop: Write a Program)\
+   [![video1](Videos/Conditional_Loop.jpeg)](https://www.youtube.com/watch?v=s_zwbP2ny-s)
 
 ## Week 6
 - Week 6:
