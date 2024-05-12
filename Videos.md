@@ -33,7 +33,8 @@ I'm a second year Computer Engineering student at UCSD.
    [![video1](Videos/Conditional_Loop.jpeg)](https://www.youtube.com/watch?v=s_zwbP2ny-s)
 
 ## Week 6
-- Week 6:
+- Week 6: Peer-graded Assignment: Show What You Know: Write and Explain A Program (If-Else: Write a Program)\
+   [![video1](Videos/If-else.jpeg)](https://www.youtube.com/watch?v=AzwJ6srvndY)
   
 ## Week 7
 - Week 7:
