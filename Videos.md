@@ -34,7 +34,7 @@ I'm a second year Computer Engineering student at UCSD.
 
 ## Week 6
 - Week 6: Peer-graded Assignment: Show What You Know: Write and Explain A Program (If-Else: Write a Program)\
-   [![video1](Videos/If-else.jpeg)](https://www.youtube.com/watch?v=AzwJ6srvndY)
+   [![video1](Videos/if-else.jpeg)](https://www.youtube.com/watch?v=AzwJ6srvndY)
   
 ## Week 7
 - Week 7:
