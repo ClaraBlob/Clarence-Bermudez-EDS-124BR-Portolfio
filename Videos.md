@@ -42,7 +42,7 @@ I'm a second year Computer Engineering student at UCSD.
 
 ## Week 8
 - Week 8: Peer-graded Assignment: Show What You Know: Write and Explain A Program (Compound Conditionals: Write a Program)\
-   [![video1](Videos/compound-conditionals.jpeg)](https://www.youtube.com/watch?v=8972pCxB4H4)
+   [![video1](Videos/compound-conditional.jpeg)](https://www.youtube.com/watch?v=8972pCxB4H4)
 
 ## Week 9
 - Week 9:
