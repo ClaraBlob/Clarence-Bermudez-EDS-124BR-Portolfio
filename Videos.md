@@ -45,7 +45,8 @@ I'm a second year Computer Engineering student at UCSD.
    [![video1](Videos/compound-conditional.jpeg)](https://www.youtube.com/watch?v=8972pCxB4H4)
 
 ## Week 9
-- Week 9:
+- Week 9: Peer-graded Assignment: Show What You Know: Write and Explain A Program (Abstraction: Write a Program)\
+   [![video1](Videos/abstraction.jpeg)](https://www.youtube.com/watch?v=cmQ5FYQS_pE)
   
 ## Week 10
 - Week 10:
