@@ -49,6 +49,7 @@ I'm a second year Computer Engineering student at UCSD.
    [![video1](Videos/abstraction.jpeg)](https://www.youtube.com/watch?v=cmQ5FYQS_pE)
   
 ## Week 10
-- Week 10:
+- Week 10: Peer-graded Assignment: Show What You Know: Write and Explain A Program (Lists: Write a Program)\
+   [![video1](Videos/lists.jpeg)](https://www.youtube.com/watch?v=Sn-TSralf3M)
   
 ---
